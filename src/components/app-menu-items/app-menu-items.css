@@ -1,0 +1,51 @@
+.container__menu{
+    margin-top: 24px;
+    height: 316px;
+    width: 238px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.menu__item{
+    cursor: pointer;
+    width: 221px;
+    height: 46px;
+    display: flex;
+    align-items: center;
+    margin-left: 17px;
+
+}
+.menu__label{
+    margin-left: 11px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: -0.05px;
+    color: #66788A;
+}
+
+/* .Dashboard{
+    width: 18.96px;
+    height: 18.96px;
+} */
+/* .Users{
+    width: 19.06px;
+    height: 15.34px;
+} */
+/* .Products{
+    width: 19.14px;
+    height: 16.51px;
+}
+.Authentication{
+    width: 15.25px;
+    height: 20.01px;
+}
+.Typography{
+    width: 18.1px;
+    height: 14.29px;
+}
+.IconsImages{
+    width: 18.96px;
+    height: 18.96px;
+} */

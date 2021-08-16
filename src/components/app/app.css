@@ -1,0 +1,9 @@
+.container__main{
+    width: 100%;
+    display: flex;
+    /* justify-content: space-between; */
+}
+
+.right__side{
+    width: 1650px;
+}

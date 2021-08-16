@@ -1,0 +1,29 @@
+.tabs{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    height: 58px;
+    width: 100%;
+    border-bottom: 1px solid #E4E7EB;
+}
+.tabs__items{
+    margin-left: 24px;
+}
+.tabs__item{
+    height: 56px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: -0.05px;
+    color: #3A3B3F;
+    background-color: #F9FAFB;
+    border: none;
+    outline: none;
+    padding-bottom: 2px;
+    margin-right: 24px;
+}
+.tabs__item:focus{
+    padding-bottom: 0;
+    border-bottom: 2px solid #1665D8;
+}
